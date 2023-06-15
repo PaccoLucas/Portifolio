@@ -15,7 +15,6 @@ body {
   max-width: 960px;
   width: 100%;
   margin: 0 auto;
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -32,7 +31,7 @@ body {
 }
 header {
   padding-bottom: 24px;
-  padding-top: 32px;
+  padding-top: 8px;
 }
 header .profile-avatar {
   display: block;
